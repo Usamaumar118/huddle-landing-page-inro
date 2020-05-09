@@ -43,7 +43,6 @@ h6{
     padding: 4% 10%;
 
     display: grid;
-    grid-template-rows: 10% minmax(max-content, 1fr) 10%;
     align-items: center;
 
 
@@ -149,7 +148,7 @@ h6{
     }
 
     &__social{
-
+        margin-top: 2rem;
         display: flex;
 
     &__item{
