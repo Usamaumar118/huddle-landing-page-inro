@@ -12,7 +12,7 @@ img{
 }
 
 html{
-    font-family: 'Roboto',sans-serif;
+    font-family: 'open sans',sans-serif;
     font-size: 62.5%;
     box-sizing: border-box;
 
@@ -26,6 +26,14 @@ html{
 
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family: 'poppins', sans-serif;
+}
 
 .register{
     background: url('images/bg-desktop.svg') no-repeat;
@@ -120,15 +128,12 @@ html{
             margin-top: 3rem;
             color: #6749AC;
             text-decoration: none;
+            font-family: 'poppins', sans-serif;
             font-size: 1.6rem;
             border-radius: 33rem;
-            font-weight: 500;
             letter-spacing: 1px;
             padding: .9em 3.2em ;
             box-shadow: 0 5px 5px rgba(12, 12, 12, 0.342);
-
-
-
         }
 
     }
